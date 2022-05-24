@@ -1,0 +1,28 @@
+{
+  "name": "entrepeneur",
+  "version": "1.0.0",
+  "description": "Entrepeneur Planning Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicoMP/Entrepeneur.git"
+  },
+  "keywords": [
+    "Planner",
+    "Organization",
+    "Budgeting",
+    "Business",
+    "Javascript",
+    "TypeScript",
+    "Website"
+  ],
+  "author": "Nicolas Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoMP/Entrepeneur/issues"
+  },
+  "homepage": "https://github.com/nicoMP/Entrepeneur#readme"
+}
